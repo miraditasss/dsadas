@@ -69,25 +69,6 @@ nav > div:hover {
 
 }
 
-nav > li {
-	width: 25%;
-	float: left;
-	font-family:'Segoe UI', Arial, sans-serif;
-	font-size: 1.5;
-	text-align: center;
-	background-color: #8B0000;
-	height: 5%;
-	padding: 1.1rem;
-	box-sizing: border-box;
-	border: 5px;
-}
-
-nav > li:content {
-	font-family: 'Segoe UI', Arial, sans-serif;
-	font-size: 1.5rem;
-
-}
-
 
 .profile-img {
 	width: 120px;
